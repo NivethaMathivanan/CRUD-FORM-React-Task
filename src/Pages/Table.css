@@ -1,0 +1,55 @@
+.card {
+    background-color: transparent;
+    width: 85% !important ;
+}
+
+.headButton {
+    background-color: transparent;
+}
+
+.manageProduct {
+    background-color: transparent !important;
+}
+
+.p-datatable-thead>tr>th {
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+}
+
+.p-datatable-header {
+    background-color: transparent;
+    color: white;
+}
+
+.p-datatable-tbody>tr>td {
+
+    color: white;
+}
+
+.p-datatable-tbody>tr {
+    background-color: transparent;
+/* border: 1px solid white; */
+}
+
+.p-datatable-tbody>tr:hover>td {
+    border: 1px solid white;
+  
+    color: white;
+}
+.custom-paginator .p-paginator {
+    background-color: transparent;
+   
+}
+
+.custom-paginator .p-paginator .p-paginator-pages {
+    background-color: transparent;
+   
+
+
+}
+.custom-paginator .p-paginator-current {
+    color: rgb(255, 255, 255);  
+    font-weight: bold; 
+}
+

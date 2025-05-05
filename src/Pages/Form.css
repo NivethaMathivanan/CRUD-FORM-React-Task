@@ -1,0 +1,85 @@
+ body {
+    margin: 0;
+    padding: 0;
+    background-image: url("C:\Users\ADMIN\Documents\Ebrain\React\Public\redux-saga\redux-sagatask\asstes\download (4).jpeg");
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+    background-attachment: fixed; 
+    height: 100vh;
+
+}
+
+.form-box {
+    color: white;
+    padding: 40px;
+    border-radius: 5px;
+    box-shadow: 0 0 15px rgba(3, 0, 0, 0.1);
+    box-shadow: 0 0 13px rgb(247, 241, 241) !important;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+.error {
+    color: red;
+    font-size: 15px;
+
+} 
+ .submitButton {
+    padding: 8px 8px !important;
+    box-shadow: 0 0 10px rgb(245, 245, 245) !important;
+    border-radius: 5px !important;
+    background-color: transparent !important;
+    margin-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    border: none;
+    color: white;
+} 
+ 
+.form-control {
+
+    background-color: transparent !important;
+    box-shadow: 0 0 13px rgb(247, 241, 241) !important;
+    color: white !important;
+}
+
+select {
+
+    background-color: transparent !important;
+    box-shadow: 0 0 13px rgb(247, 241, 241) !important;
+}
+ 
+.submitButton:hover {
+
+    transform: scale(1.05) !important;
+    color: #ffffff !important;
+    box-shadow: 0 0 90px rgb(247, 241, 241) !important; 
+}
+
+label {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    /* color: white; */
+ }
+option{
+    color: black;
+}  
+.emailIcon{
+    color: white;
+    background-color: transparent !important;
+    box-shadow: 0 0 13px rgb(247, 241, 241) !important;
+}
+
+ @media screen and (min-width: 426px) {
+
+.input-group{
+   width: 80% !important;
+   display: flex !important;
+}
+
+
+} 
+
